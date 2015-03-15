@@ -7,12 +7,12 @@ Aimed to be a light weight, minimalist, easy to use library to retrieve IP geolo
 GeoIP.Query geoIP = new GeoIP.Query('provided api key', IPAddress.Parse('IP address to resolve'));
 
 /* Using the instance, retrieve the returned values */
-Bitmap flag = geo.CountryImage;
-string status = geo.StatusCode;
-string statusMsg = geo.StatusMessage;
-string ipAddress = geo.IPAddress;
-string countryCode = geo.CountryCode;
-string countryName = geo.CountryName;
+Bitmap flag = geoIP.CountryImage;
+string status = geoIP.StatusCode;
+string statusMsg = geoIP.StatusMessage;
+string ipAddress = geoIP.IPAddress;
+string countryCode = geoIP.CountryCode;
+string countryName = geoIP.CountryName;
 ```
 
 ### License
