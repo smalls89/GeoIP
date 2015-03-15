@@ -284,7 +284,6 @@
     <EmbeddedResource Include="Flags\ZA.png" />
     <EmbeddedResource Include="Flags\ZM.png" />
     <EmbeddedResource Include="Flags\ZW.png" />
-    <Content Include="License.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="signingkey.snk" />
