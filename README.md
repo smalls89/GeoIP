@@ -1,5 +1,5 @@
 ## GeoIP
-Aimed to be a light weight, minimalist, easy to use library to retrieve IP geolocation data from [ipinfodb](ipinfodb.com).
+Aimed to be a light weight, minimalist, easy to use library to retrieve IP geolocation data from [ipinfodb](http://www.ipinfodb.com).
 
 ### Simple Usage
 ```csharp
